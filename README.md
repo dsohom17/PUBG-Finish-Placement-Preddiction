@@ -1,2 +1,2 @@
 # PUBG-Finish-Placement-Preddiction
-A kaggle competition
+A kaggle competition (Konnexions)
